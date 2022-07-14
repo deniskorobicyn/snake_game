@@ -1,0 +1,7 @@
+UP = 'up'
+DOWN = 'down'
+LEFT = 'left'
+RIGHT = 'right'
+EATEN = 'eaten'
+EMPTY = 'empty'
+HIT = 'hit'
